@@ -6,7 +6,7 @@ import numpy as np
 pd.__version__
 
 # %%
-data = pd.read_csv("Assignments/car_fuel_efficiency.csv")
+data = pd.read_csv("Assignments/Assignment 1/car_fuel_efficiency.csv")
 
 data
 
